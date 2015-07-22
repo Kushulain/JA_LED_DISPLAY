@@ -1,0 +1,5 @@
+Arduino program that draw blinking text on CENTAURE CI5TD LED DISPLAY.
+Homed at the blackloop hacker space.
+Exhibited at Le Jardin d'alice on July 17th 2015.
+
+Code based on https://github.com/guyzmo/LeLoopBigLedDisplay
